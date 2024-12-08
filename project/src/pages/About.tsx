@@ -14,7 +14,7 @@ export function About() {
             <div className="text-center mb-12">
               <div className="w-40 h-40 mx-auto mb-6 rounded-full overflow-hidden border-4 border-purple-500/50 shadow-lg transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src="https://media.licdn.com/dms/image/D5603AQGHOLnqAXvqyA/profile-displayphoto-shrink_800_800/0/1696865023277?e=1716422400&v=beta&t=Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs_Hs"
+                  src="/project/dinesh.jpeg"
                   alt="Dinesh Bahadur Shahi"
                   className="w-full h-full object-cover"
                 />
