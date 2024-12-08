@@ -14,7 +14,7 @@ export function About() {
             <div className="text-center mb-12">
               <div className="w-40 h-40 mx-auto mb-6 rounded-full overflow-hidden border-4 border-purple-500/50 shadow-lg transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src="/images/dinesh.jpeg"  // Correct path to the image in public/images/
+                  src="/images/profile.PNG"  // Correct path to the image in public/images/
                   alt="Dinesh Bahadur Shahi"
                   className="w-full h-full object-cover"
                 />
