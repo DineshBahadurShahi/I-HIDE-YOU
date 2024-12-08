@@ -13,11 +13,11 @@ export function About() {
           <div className="relative bg-gray-800/50 backdrop-blur-sm rounded-2xl p-8 border border-gray-700 shadow-xl">
             <div className="text-center mb-12">
               <div className="w-40 h-40 mx-auto mb-6 rounded-full overflow-hidden border-4 border-purple-500/50 shadow-lg transform hover:scale-105 transition-transform duration-300">
-                <img
-                  src="/project/dinesh.jpeg"
-                  alt="Dinesh Bahadur Shahi"
-                  className="w-full h-full object-cover"
-                />
+              <img
+                src="/images/dinesh.jpeg"  // Correct path to the image in public/images/
+                alt="Dinesh Bahadur Shahi"
+                className="w-full h-full object-cover"
+              />
               </div>
               <h1 className="text-4xl font-bold text-white mb-4">Dinesh Bahadur Shahi</h1>
               <div className="flex items-center justify-center space-x-2 text-purple-400">
